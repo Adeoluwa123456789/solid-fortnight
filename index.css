@@ -1,0 +1,94 @@
+#head{
+ display: flex;
+ margin-left: 550px;
+ justify-content: space-evenly;
+ position: relative;
+ top: -40px;
+ font-family: sans-serif;
+ font-size: 20px;
+ font-weight: bold;
+ gap: 15px
+ ;
+}
+#id a{
+ color: #224093;
+ text-decoration: none;
+}
+#id a:hover{
+ color: #224093;
+ text-decoration-line: underline;
+ text-decoration-color: #FDB915;
+}
+#button button{
+ background-color:#FDB915;
+ border: none;
+ color: #224093;
+ width: 120px;
+ position: relative;
+ top: -10px !important;
+ height: 50px;
+ padding: 10px;
+ border-radius: 9px;
+ text-decoration: none;
+ box-shadow: rgba(1px, 2px, 1px, 5px);
+}
+#button a:hover{
+ color: white;
+ font-family: sans-serif;
+ font-size: 20px;
+ font-weight: bold;
+
+}
+#button a{
+ text-decoration: none;
+}
+#image img{
+ width: 100%;
+}
+#buy{
+background-color: #FDB915;
+border-radius: 4px;
+color: #224093;
+width: 400px;
+}
+#become{
+border: 1px solid #224093;
+color: #224093;
+width: 400px;
+}
+#September{
+color: #224093;
+position: relative;
+left: 700px;
+top: -100px;
+
+}
+main{
+ text-align: center;
+}
+#both{
+ display: flex;
+ justify-content: space-evenly;
+ padding: -1px;
+ height: 60px;
+}
+#MAIDEN{
+color: #224093;
+}
+main{
+ background-color: #224093;
+}
+#h5{
+ color: #224093;
+ width: 50%;
+}
+#nav1 img{
+ width: 50%;
+ position: relative;
+ left: 500px;
+ top: -240px;
+
+}
+#out img{
+ width: 50%;
+}
